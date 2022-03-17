@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.exe
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.deps.json
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.dll
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\bin\Debug\netcoreapp3.1\method1.pdb
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.dll
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.pdb
+C:\Users\simar\OneDrive\Desktop\methods\method1\method1\obj\Debug\netcoreapp3.1\method1.genruntimeconfig.cache
