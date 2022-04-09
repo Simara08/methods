@@ -1,0 +1,14 @@
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.exe
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.deps.json
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.runtimeconfig.json
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.runtimeconfig.dev.json
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.dll
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\bin\Debug\netcoreapp3.1\CarInformation.pdb
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.csproj.AssemblyReference.cache
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.AssemblyInfoInputs.cache
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.AssemblyInfo.cs
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.csproj.CoreCompileInputs.cache
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.dll
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.pdb
+C:\Users\simar\OneDrive\Desktop\proje\CarInformation\CarInformation\obj\Debug\netcoreapp3.1\CarInformation.genruntimeconfig.cache
