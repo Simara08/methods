@@ -1,0 +1,14 @@
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.exe
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.deps.json
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.runtimeconfig.json
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.runtimeconfig.dev.json
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.dll
+C:\Users\simar\source\repos\Yeniden\Yeniden\bin\Debug\netcoreapp3.1\Yeniden.pdb
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.csproj.AssemblyReference.cache
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.AssemblyInfoInputs.cache
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.AssemblyInfo.cs
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.csproj.CoreCompileInputs.cache
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.dll
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.pdb
+C:\Users\simar\source\repos\Yeniden\Yeniden\obj\Debug\netcoreapp3.1\Yeniden.genruntimeconfig.cache
